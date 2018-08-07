@@ -18,10 +18,6 @@ html {
   }
 }
 
-.container {
-  max-width: 960px;
-}
-
 .border-top {
   border-top: 1px solid #e5e5e5;
 }
@@ -53,7 +49,6 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
-  overflow: scroll;
   white-space: nowrap;
   /* Set the fixed height of the footer here */
   height: 60px;
